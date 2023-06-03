@@ -1,0 +1,1 @@
+OTP (One Time Password) Gateway is a standalone web server that provides a central gateway to verify user addresses such as e-mails and phone numbers, and to send 2FA confirmations to such addresses.
